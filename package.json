@@ -1,5 +1,6 @@
 {
   "name": "zen-chat",
+  "homepage": "http://react-firebase-chat.zencreative.com.au/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "prettier": "2.8.4",
     "react-router-dom": "^6.8.1"
   }
 }

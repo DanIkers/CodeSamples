@@ -182,6 +182,6 @@ p {
 .chatToIcon .messageAvatar {
   width:90px;
   height:auto;
-  display:inline-block;
+  display:block;
   float:left;
 }
